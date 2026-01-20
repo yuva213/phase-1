@@ -5,7 +5,8 @@
       "Bash(npx:*)",
       "Bash(npm install:*)",
       "Bash(npm run android:*)",
-      "Bash(taskkill:*)"
+      "Bash(taskkill:*)",
+      "Bash(start http://localhost:8082)"
     ]
   }
 }
