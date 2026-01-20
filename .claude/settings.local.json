@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx react-native@latest init:*)"
+      "Bash(npx react-native@latest init:*)",
+      "Bash(npx:*)"
     ]
   }
 }
